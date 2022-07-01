@@ -14,14 +14,12 @@ Our recorded talks can be found on our [Youtube channel](https://www.youtube.com
 
 ## Upcoming talks
    
-- **Laure Zanna** will be giving a joing plenary talk with Galen McKinley on M²LInES and LEAP on June 13th at the 2022 CESM Workshop. Info and registration at this [website](https://www.cesm.ucar.edu/events/workshops/2022/)
-
 <br>
 
 ## Past talks
 
 ## *2022* 
-
+- **Laure Zanna** - 2022 CESM Workshop. Joint plenary talk with Galen McKinley on M²LInES and LEAP on June 13th. <a class="button button-inline" href="https://youtu.be/q_gGIL-Kvgs?t=11576">Video</a> 
 * **Laure Zanna** - NCAR Mesoscale & Microscale Meteorology Laboratory. *Machine Learning for Mesoscale Closures in Ocean Models.*  June 2nd <a class="button button-inline" href="https://www.youtube.com/watch?v=qRSXSkjvFcE">Video</a>
 * **Laure Zanna** - Ocean Sciences Meeting 2022. *Online implementation of Machine Learning Eddy Parameterizations in a Hierarchy of Ocean Models*   Mar 4th <a class="button button-inline" href="https://youtu.be/ydiCxUliaG0">Video</a>
 * **Laure Zanna** - UW Data-driven methods in science and engineering seminar: *Data-driven turbulence closures for ocean and climate models: advances and challenges*. Feb 4th <a class="button button-inline" href="https://www.youtube.com/watch?v=JB7LpUJlxc0&feature=youtu.be">Video</a> 
@@ -34,5 +32,5 @@ Our recorded talks can be found on our [Youtube channel](https://www.youtube.com
 * **Laure Zanna** - Podcast "Climate Now": *Improving Climate Models with Machine Learning*.  Nov 2nd <a class="button button-inline" href="https://podcasts.apple.com/us/podcast/climate-now/id1565404483">Listen </a>
 * KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/). In particular: 
     * **Laure Zanna** -	*Machine Learning for Ocean Closures: Advances and Lessons*.  Nov 1st <a class="button button-inline" href="https://online.kitp.ucsb.edu/online/climate-c21/zanna/">Video</a>
-* **Laure Zanna** - One World Mathematics: *Climate Modeling in the Age of Machine Learning*. &#128187; &#127878; July 6th <a class="button button-inline" href="https://www.youtube.com/watch?v=bH_A1nvwiDI">Video</a>
-* **Laure Zanna** - One World Mathematics: *Climate Modeling in the Age of Machine Learning*. &#128187; &#127878; July 6th <a class="button button-inline" href="https://www.youtube.com/watch?v=bH_A1nvwiDI">Video</a>
+* **Laure Zanna** - One World Mathematics: *Climate Modeling in the Age of Machine Learning*.  July 6th <a class="button button-inline" href="https://www.youtube.com/watch?v=bH_A1nvwiDI">Video</a>
+* **Laure Zanna** - One World Mathematics: *Climate Modeling in the Age of Machine Learning*.  July 6th <a class="button button-inline" href="https://www.youtube.com/watch?v=bH_A1nvwiDI">Video</a>
