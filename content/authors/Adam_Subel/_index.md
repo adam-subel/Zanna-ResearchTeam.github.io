@@ -6,7 +6,7 @@ title: Adam Subel
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student [He/Him]
 
 # Organizations/Affiliations
 organizations:
@@ -18,6 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Machine Learning
+  - Subgrid Parameterization
   
 # education:
 #  courses:
